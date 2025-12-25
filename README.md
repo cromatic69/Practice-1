@@ -1,2 +1,2 @@
 # Practice-1
-jsut trying things out..
+Just trying things out..
